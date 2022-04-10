@@ -1,0 +1,10 @@
+.header nav a {
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+}
+
+.header nav a:hover {
+    color: rgb(210, 212, 48);
+
+}
